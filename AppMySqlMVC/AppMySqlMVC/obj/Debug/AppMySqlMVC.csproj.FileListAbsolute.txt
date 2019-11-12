@@ -1,0 +1,134 @@
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMVC.dll.config
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMVC.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMVC.pdb
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csc.exe
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csc.exe.config
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csc.rsp
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csi.exe
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csi.exe.config
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csi.rsp
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.AppContext.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Collections.Immutable.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Console.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.Compression.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.FileSystem.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.Pipes.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Reflection.Metadata.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.AccessControl.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Claims.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Principal.Windows.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.ValueTuple.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.XPath.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\vbc.exe
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\vbc.exe.config
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\vbc.rsp
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\VBCSCompiler.exe
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\VBCSCompiler.exe.config
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMvDAO.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\MySql.Data.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\Google.Protobuf.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\Renci.SshNet.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\BouncyCastle.Crypto.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMvDAO.pdb
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.Helpers.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.Mvc.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.Optimization.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.Razor.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.WebPages.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.WebPages.Deployment.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.WebPages.Razor.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\Newtonsoft.Json.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\Antlr3.Runtime.pdb
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Net.Http.Formatting.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.Http.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\System.Web.Http.WebHost.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\MySql.Data.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.csproj.CopyComplete
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMVC.dll.config
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMVC.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMVC.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csc.exe
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csc.exe.config
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csc.rsp
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csi.exe
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csi.exe.config
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\csi.rsp
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.AppContext.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Console.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\vbc.exe
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\vbc.exe.config
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\vbc.rsp
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMvDAO.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\MySql.Data.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\Google.Protobuf.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\Renci.SshNet.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\BouncyCastle.Crypto.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\bin\AppMySqlMvDAO.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.csprojAssemblyReference.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.csproj.CopyComplete
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMVC\obj\Debug\AppMySqlMVC.pdb

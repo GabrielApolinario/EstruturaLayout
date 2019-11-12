@@ -1,0 +1,22 @@
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\AppMySqlMvDAO.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\AppMySqlMvDAO.pdb
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\MySql.Data.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\Google.Protobuf.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\Renci.SshNet.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\BouncyCastle.Crypto.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\MySql.Data.xml
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.csproj.CopyComplete
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.dll
+T:\Usuarios\INFORMATICA\2B MODULAR NOITE\Gabriel Apolinário\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\AppMySqlMvDAO.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\AppMySqlMvDAO.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\Google.Protobuf.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\Renci.SshNet.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.csprojAssemblyReference.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.csproj.CopyComplete
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppMySqlMVC\AppMySqlMvDAO\obj\Debug\AppMySqlMvDAO.pdb
